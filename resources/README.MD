@@ -27,8 +27,13 @@ This section contains information and links to resources which might be useful
     * Two possible fixes:
         * [PID autotune](https://teachingtechyt.github.io/calibration.html#pid) - this
         runs the automated configuration on the heating of the nozzel and bed
+        * for the nozzle:
         ```
         M303 E0 S220 C5 U1
+        ```
+        * for the bed:
+        ```
+        M303 E-1 S60 C5 U1
         ```
         * Upgrade your firmware, refer below (this fixed my issues)
 * Changing nozzle and tube
