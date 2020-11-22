@@ -21,6 +21,7 @@ This lists useful prints, benchies and upgrade that people might like
 
 * [Boat](https://www.thingiverse.com/thing:763622)
 * [XYZ cube](https://www.thingiverse.com/thing:1278865)
+   * [XYZ cube - lego'y](https://www.thingiverse.com/thing:4645349)
 * [Cali Cat](https://www.thingiverse.com/thing:1545913)
 * [Variable Retraction test](https://www.thingiverse.com/thing:3318756)
 * [bridge test](https://www.thingiverse.com/thing:546688)
