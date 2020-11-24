@@ -17,6 +17,11 @@ This lists useful prints, benchies and upgrade that people might like
 * [V-slot pi case slide](https://www.thingiverse.com/thing:4611286)
 * [Hot end fan (CAI) Cold Air Intake and noise depressor](https://www.thingiverse.com/thing:4645491)
 
+Thingiverse collections and search tags
+
+* [Sonny_c collection](https://www.thingiverse.com/sonny_c/collections/cr-6-se)
+* [cr6se thingiverse tag](https://www.thingiverse.com/tag:cr6se)
+
 ## Benchines
 
 * [Boat](https://www.thingiverse.com/thing:763622)
